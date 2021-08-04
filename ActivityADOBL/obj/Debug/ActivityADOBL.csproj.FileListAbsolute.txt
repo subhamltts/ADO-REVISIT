@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\bin\Debug\ActivityADOBL.dll
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\bin\Debug\ActivityADOBL.pdb
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\bin\Debug\ActivityADODAL.dll
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\bin\Debug\ActivityADODTO.dll
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\bin\Debug\ActivityADODAL.pdb
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\bin\Debug\ActivityADODTO.pdb
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\obj\Debug\ActivityADOBL.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\obj\Debug\ActivityADOBL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\obj\Debug\ActivityADOBL.csproj.CopyComplete
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\obj\Debug\ActivityADOBL.dll
+C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADOBL\obj\Debug\ActivityADOBL.pdb
