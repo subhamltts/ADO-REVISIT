@@ -1,9 +1,0 @@
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\bin\Debug\ActivityADODAL.dll
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\bin\Debug\ActivityADODAL.pdb
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\bin\Debug\ActivityADODTO.dll
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\bin\Debug\ActivityADODTO.pdb
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\obj\Debug\ActivityADODAL.csproj.AssemblyReference.cache
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\obj\Debug\ActivityADODAL.csproj.CoreCompileInputs.cache
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\obj\Debug\ActivityADODAL.csproj.CopyComplete
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\obj\Debug\ActivityADODAL.dll
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODAL\obj\Debug\ActivityADODAL.pdb
