@@ -1,6 +1,0 @@
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODTO\bin\Debug\ActivityADODTO.dll
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODTO\bin\Debug\ActivityADODTO.pdb
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODTO\obj\Debug\ActivityADODTO.csproj.AssemblyReference.cache
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODTO\obj\Debug\ActivityADODTO.csproj.CoreCompileInputs.cache
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODTO\obj\Debug\ActivityADODTO.dll
-C:\Users\Hp\Desktop\C# GENESIS\REVISE ADONET\ActivityADOUI\ActivityADODTO\obj\Debug\ActivityADODTO.pdb
